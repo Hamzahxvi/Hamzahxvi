@@ -1,6 +1,4 @@
 ## Hi there, I'm Hamzah! 👋
-
-### Undergraduate CS student at UiTM
 <!--
 **Hamzahxvi/Hamzahxvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
